@@ -1,0 +1,52 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Turkish" />
+      <item value="mandatory" />
+      <item value="Retrieves" />
+      <item value="check Accessors Usable" />
+      <item value="enclosing" />
+      <item value="wildcards" />
+      <item value="substitution" />
+      <item value="hierarchy" />
+      <item value="Eagerly" />
+      <item value="Explicitly" />
+      <item value="criteria" />
+      <item value="desired" />
+      <item value="Aggregator" />
+      <item value="spuriously" />
+      <item value="dormant" />
+      <item value="Thread &lt;var&gt;T&lt;/var&gt; * becomes disabled for thread scheduling purposes and lies dormant * until one of four things happens" />
+      <item value="This method causes the current thread (call it &lt;var&gt;T&lt;/var&gt;) to * place itself in the wait set for this object and then to relinquish * any and all synchronization claims on this object. Thread &lt;var&gt;T&lt;/var&gt; * becomes disabled for thread scheduling purposes and lies dormant * until one of four things happens:" />
+      <item value="relinquish" />
+      <item value="invocation" />
+      <item value="affiliates" />
+      <item value="assumptions" />
+      <item value="mesh" />
+      <item value="threshold" />
+      <item value="implicitly" />
+      <item value="overpopulated" />
+      <item value="traversed" />
+      <item value="Bins" />
+      <item value="relay" />
+      <item value="presence" />
+      <item value="arbitrary" />
+      <item value="encapsulates" />
+      <item value="typically" />
+      <item value="sufficiently" />
+      <item value="tradeoff" />
+      <item value="approximately" />
+      <item value="is a measure of how full the hash table is allowed to * get before its capacity is automatically increased" />
+      <item value="proportional" />
+      <item value="buckets" />
+      <item value="disperses" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="35" />
+        <entry key="ENGLISH" value="36" />
+        <entry key="CATALAN" value="3" />
+      </map>
+    </option>
+  </component>
+</application>
