@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="contention" />
+      <item value="parallelism" />
       <item value="explicitly" />
       <item value="Creates a thread pool that reuses a fixed number of threads * operating off a shared unbounded queue" />
       <item value="unbounded" />
@@ -51,8 +53,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="43" />
-        <entry key="ENGLISH" value="44" />
+        <entry key="CHINESE" value="45" />
+        <entry key="ENGLISH" value="46" />
         <entry key="CATALAN" value="3" />
       </map>
     </option>
