@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="spurious" />
+      <item value="that is, to the situation as of the time that the {@code wait} * method was invoked. Thread &lt;var&gt;T&lt;/var&gt; then returns from the * invocation of the {@code wait} method." />
+      <item value="quoante" />
+      <item value="competes" />
+      <item value="consideration" />
+      <item value="arbitrarily" />
+      <item value="dormant" />
+      <item value="relinquish" />
       <item value="appropriate" />
       <item value="benchmarking" />
       <item value="profiling" />
@@ -32,10 +40,8 @@
       <item value="desired" />
       <item value="Aggregator" />
       <item value="spuriously" />
-      <item value="dormant" />
       <item value="Thread &lt;var&gt;T&lt;/var&gt; * becomes disabled for thread scheduling purposes and lies dormant * until one of four things happens" />
       <item value="This method causes the current thread (call it &lt;var&gt;T&lt;/var&gt;) to * place itself in the wait set for this object and then to relinquish * any and all synchronization claims on this object. Thread &lt;var&gt;T&lt;/var&gt; * becomes disabled for thread scheduling purposes and lies dormant * until one of four things happens:" />
-      <item value="relinquish" />
       <item value="affiliates" />
       <item value="assumptions" />
       <item value="mesh" />
@@ -45,19 +51,14 @@
       <item value="traversed" />
       <item value="Bins" />
       <item value="relay" />
-      <item value="presence" />
-      <item value="arbitrary" />
-      <item value="encapsulates" />
-      <item value="typically" />
-      <item value="sufficiently" />
-      <item value="tradeoff" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="51" />
-        <entry key="ENGLISH" value="52" />
+        <entry key="CHINESE" value="60" />
+        <entry key="ENGLISH" value="61" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="3" />
+        <entry key="LATIN" value="1" />
       </map>
     </option>
   </component>
