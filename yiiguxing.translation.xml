@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="spuriously" />
       <item value="barge" />
       <item value="spurious" />
       <item value="that is, to the situation as of the time that the {@code wait} * method was invoked. Thread &lt;var&gt;T&lt;/var&gt; then returns from the * invocation of the {@code wait} method." />
@@ -40,7 +41,6 @@
       <item value="criteria" />
       <item value="desired" />
       <item value="Aggregator" />
-      <item value="spuriously" />
       <item value="Thread &lt;var&gt;T&lt;/var&gt; * becomes disabled for thread scheduling purposes and lies dormant * until one of four things happens" />
       <item value="This method causes the current thread (call it &lt;var&gt;T&lt;/var&gt;) to * place itself in the wait set for this object and then to relinquish * any and all synchronization claims on this object. Thread &lt;var&gt;T&lt;/var&gt; * becomes disabled for thread scheduling purposes and lies dormant * until one of four things happens:" />
       <item value="affiliates" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="61" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="CHINESE" value="62" />
+        <entry key="ENGLISH" value="63" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="3" />
         <entry key="LATIN" value="1" />
