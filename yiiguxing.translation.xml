@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="indefinitely" />
       <item value="spuriously" />
       <item value="barge" />
       <item value="spurious" />
@@ -50,12 +51,11 @@
       <item value="implicitly" />
       <item value="overpopulated" />
       <item value="traversed" />
-      <item value="Bins" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
-        <entry key="ENGLISH" value="63" />
+        <entry key="CHINESE" value="63" />
+        <entry key="ENGLISH" value="64" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="3" />
         <entry key="LATIN" value="1" />
