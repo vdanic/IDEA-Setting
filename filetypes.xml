@@ -4,6 +4,7 @@
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="a" type="PLAIN_TEXT" />
+      <mapping ext="dd" type="PLAIN_TEXT" />
       <removed_mapping ext="a" approved="true" type="UNKNOWN" />
       <removed_mapping ext="a" approved="true" type="UNKNOWN" />
     </extensionMap>
