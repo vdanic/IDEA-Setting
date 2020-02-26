@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Tuling Configuration" />
+      <item value="refresh" />
       <item value="anchor" />
       <item value="introspect" />
       <item value="portion" />
@@ -49,13 +51,11 @@
       <item value="Aggregator" />
       <item value="Thread &lt;var&gt;T&lt;/var&gt; * becomes disabled for thread scheduling purposes and lies dormant * until one of four things happens" />
       <item value="This method causes the current thread (call it &lt;var&gt;T&lt;/var&gt;) to * place itself in the wait set for this object and then to relinquish * any and all synchronization claims on this object. Thread &lt;var&gt;T&lt;/var&gt; * becomes disabled for thread scheduling purposes and lies dormant * until one of four things happens:" />
-      <item value="affiliates" />
-      <item value="assumptions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="68" />
-        <entry key="ENGLISH" value="69" />
+        <entry key="CHINESE" value="70" />
+        <entry key="ENGLISH" value="71" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="3" />
         <entry key="LATIN" value="1" />
