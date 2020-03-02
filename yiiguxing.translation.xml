@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="deterministic" />
+      <item value="arbitrary" />
+      <item value="proportional" />
+      <item value="disperses" />
       <item value="erasure" />
       <item value="Sync" />
       <item value="transient" />
@@ -47,17 +51,13 @@
       <item value="wildcards" />
       <item value="substitution" />
       <item value="hierarchy" />
-      <item value="Eagerly" />
-      <item value="Explicitly" />
-      <item value="criteria" />
-      <item value="desired" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="72" />
-        <entry key="ENGLISH" value="73" />
+        <entry key="CHINESE" value="76" />
+        <entry key="ENGLISH" value="77" />
         <entry key="FRENCH" value="1" />
-        <entry key="CATALAN" value="3" />
+        <entry key="CATALAN" value="4" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
