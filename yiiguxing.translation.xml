@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dormant" />
       <item value="deterministic" />
       <item value="arbitrary" />
       <item value="proportional" />
@@ -24,7 +25,6 @@
       <item value="competes" />
       <item value="consideration" />
       <item value="arbitrarily" />
-      <item value="dormant" />
       <item value="relinquish" />
       <item value="appropriate" />
       <item value="benchmarking" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="76" />
-        <entry key="ENGLISH" value="77" />
+        <entry key="CHINESE" value="77" />
+        <entry key="ENGLISH" value="78" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="4" />
         <entry key="LATIN" value="1" />
