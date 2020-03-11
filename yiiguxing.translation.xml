@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="hence" />
+      <item value="Filter Input Stream" />
       <item value="subsequent" />
       <item value="relinquishes" />
       <item value="dormant" />
@@ -49,13 +51,11 @@
       <item value="mandatory" />
       <item value="Retrieves" />
       <item value="check Accessors Usable" />
-      <item value="enclosing" />
-      <item value="wildcards" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="79" />
-        <entry key="ENGLISH" value="80" />
+        <entry key="CHINESE" value="81" />
+        <entry key="ENGLISH" value="82" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="4" />
         <entry key="LATIN" value="1" />
