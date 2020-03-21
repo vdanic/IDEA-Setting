@@ -1,6 +1,5 @@
 <application>
   <component name="UISettings">
-    <option name="EDITOR_TAB_LIMIT" value="20" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
   </component>
 </application>
