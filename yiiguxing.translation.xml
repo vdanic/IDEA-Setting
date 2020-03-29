@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Ancestors" />
+      <item value="Instantiation" />
       <item value="truncated" />
       <item value="Predicate" />
       <item value="MANDATORY" />
@@ -49,13 +51,11 @@
       <item value="invocation" />
       <item value="contention" />
       <item value="parallelism" />
-      <item value="explicitly" />
-      <item value="Creates a thread pool that reuses a fixed number of threads * operating off a shared unbounded queue" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="92" />
-        <entry key="ENGLISH" value="93" />
+        <entry key="CHINESE" value="94" />
+        <entry key="ENGLISH" value="95" />
         <entry key="FRENCH" value="2" />
         <entry key="CATALAN" value="4" />
         <entry key="LATIN" value="1" />
