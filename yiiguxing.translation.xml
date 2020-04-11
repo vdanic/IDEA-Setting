@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Bound" />
+      <item value="GENERIC" />
       <item value="Infrastructure" />
       <item value="Suppress" />
       <item value="reveal" />
@@ -49,13 +51,11 @@
       <item value="quoante" />
       <item value="competes" />
       <item value="consideration" />
-      <item value="arbitrarily" />
-      <item value="relinquish" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="104" />
-        <entry key="ENGLISH" value="105" />
+        <entry key="CHINESE" value="106" />
+        <entry key="ENGLISH" value="107" />
         <entry key="FRENCH" value="2" />
         <entry key="CATALAN" value="4" />
         <entry key="LATIN" value="1" />
