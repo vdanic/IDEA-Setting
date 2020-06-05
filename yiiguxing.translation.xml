@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="retriever" />
       <item value="choise" />
       <item value="Validity" />
       <item value="Recognization" />
@@ -50,12 +51,11 @@
       <item value="Filter Input Stream" />
       <item value="subsequent" />
       <item value="relinquishes" />
-      <item value="dormant" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="122" />
-        <entry key="ENGLISH" value="123" />
+        <entry key="CHINESE" value="123" />
+        <entry key="ENGLISH" value="124" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="2" />
         <entry key="CATALAN" value="4" />
