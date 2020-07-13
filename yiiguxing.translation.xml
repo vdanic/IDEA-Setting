@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Bean Factory Transaction Attribute Source Advisor" />
+      <item value="Aspect J Aware Advisor Auto Proxy Creator" />
       <item value="TRACKING" />
       <item value="LIGATURES" />
       <item value="KERNING" />
@@ -49,8 +51,6 @@
       <item value="reveal" />
       <item value="Escalate" />
       <item value="eviction" />
-      <item value="Eagerly" />
-      <item value="Aware" />
     </histories>
     <option name="languageScores">
       <map>
