@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Configuration Class Post Processor" />
+      <item value="Abstract Application Context" />
       <item value="Bean Factory Transaction Attribute Source Advisor" />
       <item value="Aspect J Aware Advisor Auto Proxy Creator" />
       <item value="TRACKING" />
@@ -38,7 +40,6 @@
       <item value="productor" />
       <item value="Barrier" />
       <item value="evict" />
-      <item value="Abstract Application Context" />
       <item value="format" />
       <item value="formate" />
       <item value="producible" />
@@ -50,12 +51,11 @@
       <item value="Suppress" />
       <item value="reveal" />
       <item value="Escalate" />
-      <item value="eviction" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="142" />
-        <entry key="ENGLISH" value="143" />
+        <entry key="CHINESE" value="144" />
+        <entry key="ENGLISH" value="145" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="2" />
         <entry key="CATALAN" value="4" />
