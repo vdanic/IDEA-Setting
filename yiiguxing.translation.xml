@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Customize" />
       <item value="flattened" />
       <item value="Proposal" />
       <item value="replica" />
@@ -50,12 +51,11 @@
       <item value="registry" />
       <item value="Bound" />
       <item value="GENERIC" />
-      <item value="Infrastructure" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="147" />
-        <entry key="ENGLISH" value="148" />
+        <entry key="CHINESE" value="148" />
+        <entry key="ENGLISH" value="149" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="2" />
         <entry key="CATALAN" value="4" />
