@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Web Socket Message Broker Configurer" />
       <item value="Customize" />
       <item value="flattened" />
       <item value="Proposal" />
@@ -50,14 +51,13 @@
       <item value="Deferred" />
       <item value="registry" />
       <item value="Bound" />
-      <item value="GENERIC" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="148" />
+        <entry key="CHINESE" value="149" />
         <entry key="ENGLISH" value="149" />
         <entry key="GERMAN" value="2" />
-        <entry key="FRENCH" value="2" />
+        <entry key="FRENCH" value="3" />
         <entry key="CATALAN" value="4" />
         <entry key="LATIN" value="1" />
         <entry key="BENGALI" value="1" />
